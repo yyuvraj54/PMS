@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monitoring-ground-personnel",
+  "private_key_id": "51b9f97f5da1a49e946932d2578d02f11018ccae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnrJUXw9O2z7N8\nzYGDRGXBWv0P8w5RYtq0gUzlVF4QvY0ldThbnnN2VPB4QxQfeXFjgV9C0Jpv1iDT\nY2leNTT1YIX6bhCoUCdp3OG2CNld0Zq+c7EBoUvllyIJBVZ3/4g14J+xBCIkrN3S\nEmJzhFGD20QpuyqaT+Hg3sbTaK5kzsEKMF8SriOSj4LW3OF9MIdGz7TVjvCWdU4D\ng/t8bg495SX1F1w4VEUSFAadIRYRn+4XqQTxLzNwIi7as/faBR8I5IA1X1mpulRU\nmeM3B2FFPVNlV92hQkl/g18QMZN7/unvFTWXHYS8wtpBPJ4KM4uS5bkc0D4E3EoU\ncBmdckJhAgMBAAECggEAUUAekUEKHyyft8rnxwHGYz9hoLBxkDucalq7tec/m9IW\niv+1+yOZpM49JrGulx/ks8i1ri1ioO38wyKJpSaYTo1i7vsV5FHO/4wS7gB0wHM5\nDrAGJpmQKyWkzwVApO51BVKfX4p2txnzdYAGKB8G1yPR8HzrhJJQDQU3CKvR0jPb\nApolPo2yZgrryliP7Lj7bE50iTxRvDT+EAN9QwrB62iufVjW6tvlDjxLg83Gqw9Z\nYqyf/eZASl0zeNVoKk3H7eqkN1XsBUiYko4qqSt1gi8tTxmeG0ddGRT4u78yXV6w\nQOllhzsZeC12nl5fU26PDfxBIw4p80tm9wVrYuHIVwKBgQDcsHm9l7R2ylzzV+I6\nqv6sCn1xlPci6adnGNoS8G4NZTIy1w77dbU6XsFILsD3mTmMh5DOpdI39gPDvkKa\ncnUV8U5RmbgaRIW7ekDuTCMBDq4F0gWvnmLiHxiQs0VxKWh0/mnV1IH04jI0ws+B\njmTXU4qMvOQ7G16QYzwNg+KXfwKBgQDCgJUsqmEFwiUj4eLEu8UBn83gcSZtsQGe\nqkJciqlmObSRFhDS6F1iioXyJXHH9cUVTP52sLBqxom6mvFDGHGI1aiRflqrIEc3\nH4ODc3Q6gZhMnCT7y6aCeGslarxSpv60sL9xT+rhpLONeBkscjc2URqq4w6pc1EW\nylKVWoMWHwKBgQDGJ5sYFkhOxUMSqJ2UKgdDuKOMQcJp0byjAJiGmuVmF7AsIBfu\nx3DzOTN5OanAaA9ZVDw8oH2SC86zinlJLm5dRm8ZK9o3k8E0ZgA5N5nSkDjHNx4t\n4xxMhrlK6/z1L8YADpQ/EHGjzRphb25cmNuI0BU+azjOrbOKF+BLDll9xwKBgQCh\nkkDZNrucFffWQ+mltblkrQRPwo7CpjyLOjIgP8uSsLLvpx3YpdAVcK7uRO6sxduu\n4yOrIwGZ4U0+J0Htk5uUqK/8FLNq3khqYRJVmw3dIBSM51TNmhG65h9TmMPSAQkq\nvnx5u4KJaNEC3tZClqqIw3zcoftnBfVBclaB3QtxzwKBgALabq7jI7MR8MIK+620\nn2wfis8uF3wN0hEdUPD+BKWndzn6BnNwMORxZzvAhK8v0cXKTpmWBCLt6Xcr6kfN\nPjJt76IPqjA876EsxVAlO2yvRyCRaNQuNNs7OkAXizojt1hy5fMgFNA3UhQFiiDL\nipCjGR9CrZPJRffsChD8xHL7\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-12qpd@monitoring-ground-personnel.iam.gserviceaccount.com",
+  "client_id": "103144982480266748976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-12qpd%40monitoring-ground-personnel.iam.gserviceaccount.com"
+}
