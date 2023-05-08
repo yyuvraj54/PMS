@@ -1,6 +1,6 @@
 
 from tkinter import *
-from Screens.function import image ,dataAdapter
+from function import image ,dataAdapter
 from PIL import ImageTk, Image
 import time
 
